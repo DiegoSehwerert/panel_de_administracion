@@ -4,25 +4,99 @@ body {
 
 aside {
     background-color: black;
-}
-
-aside{
     width: 235px;
 }
+.new-chat{
 
+}
+.new-chat-button{
+
+}
 .new-chat-button button {
     display: flex;
     align-items: center;
     gap: 1rem;
+    background-color: black;
 }
+.app-logo{
+    display: flex;
+    background-color: white;
+    border-radius: 9999px;
+    align-items: center;
+}
+.app-logo svg{ 
+    display: flex; 
+    width: 1.0rem ; height: 1.0rem;
+    background-color: white;
+    border-radius: 9999px;
 
-.app-logo svg{
     
-    width: 1.5rem ;
 }
+.new-chat-span{
 
-  
-
+}
 .new-chat-span span {
     font-size: 0.8rem;
+    color: white;
 }
+.new-chat-icon{
+
+}
+.new-chat-icon svg{
+
+}
+.chat-record{
+
+}
+.chat-record-timelapse{
+
+}
+.chat-record-timelapse-timeago{
+
+}
+.chat-record-timelapse-timeago span{
+
+}
+.chat-record-timelapse-title{
+
+}
+.chat-record-timelapse-title span{
+text-shadow: white;
+}
+.user-features{
+
+}
+.user-features-upgrade{
+
+}
+.user-features-upgrade button{
+    align-items: center;
+}
+.upgrade-icon{
+
+}
+.upgrade-title{
+
+}
+.upgrade-description{
+
+}
+.user-features-settings{
+
+}
+.user-features-settings button{
+
+}
+.user-icon{
+
+}
+.user-icon svg{
+
+}
+.user-name{
+
+}
+.user-name span{
+
+}
+
