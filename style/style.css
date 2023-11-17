@@ -1,0 +1,28 @@
+body {
+    background-color: white;
+}
+
+aside {
+    background-color: black;
+}
+
+aside{
+    width: 235px;
+}
+
+.new-chat-button button {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+
+.app-logo svg{
+    
+    width: 1.5rem ;
+}
+
+  
+
+.new-chat-span span {
+    font-size: 0.8rem;
+}
