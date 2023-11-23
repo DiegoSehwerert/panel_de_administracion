@@ -20,7 +20,7 @@ aside {
 }
 .app-logo{
     display: flex;
-    background-color: white;
+    /* background-color: white; */
     border-radius: 9999px;
     align-items: center;
 }
